@@ -1,0 +1,30 @@
+# Start of script
+# Titlebar data for r/seanpm2001
+titlebar: "Is data"
+subreddit_title: "seanpm2001"
+subreddit_handle: "r/seanpm2001"
+profilePicture: "/r/seanpm2001/Graphics/PFP/r-seanpm2001_Logo_V1.png"
+titlebar_color: "#FFFFFF" "White"
+titlebar_links:
+---
+posts: "https://www.reddit.com/r/seanpm2001/"
+wiki: "https://www.reddit.com/r/seanpm2001/wiki/index"
+rules: "https://www.reddit.com/r/seanpm2001/about/rules"
+discord_server: "https://discord.gg/CcFpEDQ"
+github: "https://github.com/seanpm2001/"
+back_to_main_reddit: "https://www.reddit.com/"
+---
+titlebar_section_names:
+---
+posts: "Posts"
+wiki: "Wiki"
+rules: "Rules"
+discord_server: "Discord Server"
+github: "GitHub"
+back_to_main_reddit: "Back to main Reddit"
+---
+# File info
+# File type: YAML Document (*.yml *.yaml)
+# File version: 1 (2022, Friday, APril 15th at 7:05 pm PST)
+# Line count (including blank lines and compiler line): 31
+# End of script
