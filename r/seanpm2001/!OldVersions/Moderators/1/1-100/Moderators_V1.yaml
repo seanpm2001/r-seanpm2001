@@ -1,0 +1,16 @@
+# Start of script
+# Moderator list for r/seanpm2001
+title: "Moderators"
+isHidden: "true" # Why don't I go and make it public? I am not signed in right now, and prefer it to stay this way for now.
+publicMessage: "Moderator list hidden. $Learn_More"
+$Learn_More {
+url: "https://www.reddithelp.com/hc/en-us/articles/360049499032"
+placeholderText: "Learn More" 
+}
+moderatorCount: "1"
+moderatorList: ["u/seanwallawalla"]
+# File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (2022, Friday, April 15th at 7:28 pm PST)
+# Line count (including blank lines and compiler line): 17
+# End fo script
