@@ -1,0 +1,31 @@
+# Start of script
+# The rules for posting on r/seanpm2001
+title: "r/seanpm2001 Rules"
+startOfRules: "true"
+rule1Title: "1."
+rule1Subtitle: "1 - No hate speech or excessive swearing"
+rule1_Description: "Hate speech will not be tolerated here. Things like slurs, and threats are not allowed. Swearing is allowed, as long as it doesn't get excessive, limit how much you swear, don't abuse words. Examples of abuse include r/justlearnedtheFword"
+rule2Title: "2."
+rule2Subtitle: "2 - Be nice to newcomers"
+rule2Description: "We were all newcomers once. Treat everyone the way you would like to be treated, unless you want to be treated badly, then treat everyone nice, including yourself."
+rule3Title: "3."
+rule3Subtitle: "3 - Flair usage"
+rule3DescriptionPart1: "Users must flair their own posts."
+rule3DescriptionPart2: "Moderators cannot give users mod only flairs, and moderators cannot give themselves or anyone else flairs with "server owner" in the flair name"
+rule3DescriptionPart3: "Post flairs cannot be misleading"
+rule4Title: "4."
+rule4Subtitle: "4 - No Pornography"
+rule4Description: "Pornography in all forms is not allowed here. You can discuss NSFW content, but you cannot post it, unless you are referencing an abuse in the system, in which you MUST tag your post NSFW. Posting pornography can result in a permanent ban after your first abuse after your first warning. Also, do not link to pornography."
+rule5Title: "5."
+rule5Subtitle: "5 - No partisan politics"
+rule5Description: "Partisan politics (Democrat, Republican, etc.) are not allowed here. You can talk about technical laws, those don't count, but do not mention partisan politics or advocate for the vote of a political figure. This subreddit is not for that, and I don't want a bunch of arguments. Find a political subreddit if you want to talk politics. Violation of this rule will result in a 14 day ban. Repeat offenses will result in a permanent ban. I had to fit this within 500 characters, I managed to do it. |*|"
+rule6Title: "6."
+rule6Subtitle: "6 - Obey the reddiquette."
+rule6Description: "Reddits set of reddiquette rules are important for posting in all subreddits. Make sure to abide by them here. For further information, go here: https://www.reddithelp.com/hc/en-us/articles/205926439"
+endOfRules: "true"
+isCommandInstruction: "false"
+# File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (2022, Friday, April 15th at 7:20 pm PST)
+# Line count (including blank lines and compiler line): 32
+# End of script
